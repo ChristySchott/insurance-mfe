@@ -483,7 +483,7 @@ export async function generateLifeOffers(cpf: string, data: any) {
 }
 ```
 
-### 6. Add rout in backend
+### 6. Add route in backend
 
 ```typescript
 // apps/server/src/routes/quotes.ts
