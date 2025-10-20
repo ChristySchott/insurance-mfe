@@ -28,7 +28,7 @@ export function Navigation({
       </div>
 
       <div className="text-sm text-gray-600">
-        Step {currentStep} of {totalSteps}
+        Etapa {currentStep} de {totalSteps}
       </div>
 
       <button onClick={onNext} disabled={!canGoNext} className="btn-primary">
